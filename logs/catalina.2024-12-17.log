@@ -64,3 +64,217 @@
 17-Dec-2024 10:44:25.820 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\Xworkz_CommonModule_Megha.xml] has finished in [446] ms
 17-Dec-2024 10:44:25.825 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
 17-Dec-2024 10:44:25.849 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [524] milliseconds
+17-Dec-2024 10:48:23.316 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 10:48:23.567 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Dec-2024 10:48:23.582 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 10:48:23.621 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:20:15.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+17-Dec-2024 21:20:15.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+17-Dec-2024 21:20:15.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+17-Dec-2024 21:20:15.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Dec-2024 21:20:15.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Dec-2024 21:20:15.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Dec-2024 21:20:15.028 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_261\jre
+17-Dec-2024 21:20:15.028 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+17-Dec-2024 21:20:15.028 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-Dec-2024 21:20:15.028 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:20:15.028 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:20:15.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:20:15.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:20:15.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\temp
+17-Dec-2024 21:20:15.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\logging.properties
+17-Dec-2024 21:20:15.039 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Dec-2024 21:20:15.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\lib\idea_rt.jar=60785:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\bin
+17-Dec-2024 21:20:15.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+17-Dec-2024 21:20:15.055 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+17-Dec-2024 21:20:15.055 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+17-Dec-2024 21:20:15.055 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Dec-2024 21:20:15.084 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+17-Dec-2024 21:20:16.118 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:20:16.550 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2255] milliseconds
+17-Dec-2024 21:20:16.599 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Dec-2024 21:20:16.600 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+17-Dec-2024 21:20:16.617 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml]
+17-Dec-2024 21:20:21.831 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Dec-2024 21:20:22.576 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml] has finished in [5,956] ms
+17-Dec-2024 21:20:22.593 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:20:22.655 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [6104] milliseconds
+17-Dec-2024 21:25:55.519 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:25:56.134 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Dec-2024 21:25:56.162 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:25:56.186 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:41:00.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+17-Dec-2024 21:41:00.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+17-Dec-2024 21:41:00.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+17-Dec-2024 21:41:00.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Dec-2024 21:41:00.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Dec-2024 21:41:00.733 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Dec-2024 21:41:00.733 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_261\jre
+17-Dec-2024 21:41:00.733 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+17-Dec-2024 21:41:00.733 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-Dec-2024 21:41:00.733 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:41:00.733 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:41:00.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:41:00.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:41:00.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\temp
+17-Dec-2024 21:41:00.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\logging.properties
+17-Dec-2024 21:41:00.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Dec-2024 21:41:00.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\lib\idea_rt.jar=61150:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\bin
+17-Dec-2024 21:41:00.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+17-Dec-2024 21:41:00.745 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+17-Dec-2024 21:41:00.746 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+17-Dec-2024 21:41:00.746 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Dec-2024 21:41:00.755 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+17-Dec-2024 21:41:01.462 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:41:02.065 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1652] milliseconds
+17-Dec-2024 21:41:02.110 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Dec-2024 21:41:02.110 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+17-Dec-2024 21:41:02.128 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml]
+17-Dec-2024 21:41:05.855 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Dec-2024 21:41:05.926 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml] has finished in [3,799] ms
+17-Dec-2024 21:41:05.930 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:41:05.942 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3877] milliseconds
+17-Dec-2024 21:42:24.650 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:42:24.883 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Dec-2024 21:42:24.897 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:42:24.953 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:42:28.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+17-Dec-2024 21:42:28.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+17-Dec-2024 21:42:28.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+17-Dec-2024 21:42:28.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Dec-2024 21:42:28.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Dec-2024 21:42:28.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Dec-2024 21:42:28.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_261\jre
+17-Dec-2024 21:42:28.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+17-Dec-2024 21:42:28.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-Dec-2024 21:42:28.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:42:28.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:42:28.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:42:28.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:42:28.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\temp
+17-Dec-2024 21:42:28.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\logging.properties
+17-Dec-2024 21:42:28.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Dec-2024 21:42:28.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\lib\idea_rt.jar=61177:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\bin
+17-Dec-2024 21:42:28.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+17-Dec-2024 21:42:28.947 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+17-Dec-2024 21:42:28.947 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+17-Dec-2024 21:42:28.947 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Dec-2024 21:42:28.954 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+17-Dec-2024 21:42:29.852 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:42:30.340 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1721] milliseconds
+17-Dec-2024 21:42:30.377 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Dec-2024 21:42:30.377 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+17-Dec-2024 21:42:30.391 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml]
+17-Dec-2024 21:42:33.384 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Dec-2024 21:42:33.458 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml] has finished in [3,066] ms
+17-Dec-2024 21:42:33.464 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:42:33.477 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3135] milliseconds
+17-Dec-2024 21:42:47.157 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:42:47.407 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Dec-2024 21:42:47.422 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:42:47.470 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:43:00.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+17-Dec-2024 21:43:00.749 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+17-Dec-2024 21:43:00.749 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+17-Dec-2024 21:43:00.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Dec-2024 21:43:00.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Dec-2024 21:43:00.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Dec-2024 21:43:00.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_261\jre
+17-Dec-2024 21:43:00.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+17-Dec-2024 21:43:00.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-Dec-2024 21:43:00.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:43:00.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:43:00.751 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:43:00.752 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:43:00.752 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\temp
+17-Dec-2024 21:43:00.752 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\logging.properties
+17-Dec-2024 21:43:00.752 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Dec-2024 21:43:00.752 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\lib\idea_rt.jar=61204:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\bin
+17-Dec-2024 21:43:00.752 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+17-Dec-2024 21:43:00.757 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+17-Dec-2024 21:43:00.757 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+17-Dec-2024 21:43:00.757 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Dec-2024 21:43:00.763 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+17-Dec-2024 21:43:01.755 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:43:02.202 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1851] milliseconds
+17-Dec-2024 21:43:02.238 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Dec-2024 21:43:02.238 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+17-Dec-2024 21:43:02.251 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml]
+17-Dec-2024 21:43:05.298 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Dec-2024 21:43:05.377 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml] has finished in [3,125] ms
+17-Dec-2024 21:43:05.383 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:43:05.396 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3194] milliseconds
+17-Dec-2024 21:43:17.343 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:43:17.590 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Dec-2024 21:43:17.604 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:43:17.653 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:43:21.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+17-Dec-2024 21:43:21.725 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+17-Dec-2024 21:43:21.725 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+17-Dec-2024 21:43:21.725 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Dec-2024 21:43:21.725 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Dec-2024 21:43:21.725 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Dec-2024 21:43:21.725 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_261\jre
+17-Dec-2024 21:43:21.725 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+17-Dec-2024 21:43:21.726 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-Dec-2024 21:43:21.726 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:43:21.726 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:43:21.726 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:43:21.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:43:21.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\temp
+17-Dec-2024 21:43:21.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\logging.properties
+17-Dec-2024 21:43:21.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Dec-2024 21:43:21.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\lib\idea_rt.jar=61218:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\bin
+17-Dec-2024 21:43:21.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+17-Dec-2024 21:43:21.738 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+17-Dec-2024 21:43:21.739 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+17-Dec-2024 21:43:21.739 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Dec-2024 21:43:21.756 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+17-Dec-2024 21:43:22.543 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:43:22.950 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1698] milliseconds
+17-Dec-2024 21:43:22.985 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Dec-2024 21:43:22.985 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+17-Dec-2024 21:43:22.999 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml]
+17-Dec-2024 21:43:26.298 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Dec-2024 21:43:26.368 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml] has finished in [3,368] ms
+17-Dec-2024 21:43:26.371 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:43:26.382 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3432] milliseconds
+17-Dec-2024 21:43:40.035 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:43:40.281 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Dec-2024 21:43:40.295 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:43:40.337 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:44:06.222 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+17-Dec-2024 21:44:06.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+17-Dec-2024 21:44:06.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+17-Dec-2024 21:44:06.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Dec-2024 21:44:06.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Dec-2024 21:44:06.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Dec-2024 21:44:06.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_261\jre
+17-Dec-2024 21:44:06.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+17-Dec-2024 21:44:06.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-Dec-2024 21:44:06.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:44:06.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:44:06.229 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP\Downloads\tomcat\apache-tomcat-9.0.38
+17-Dec-2024 21:44:06.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha
+17-Dec-2024 21:44:06.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\temp
+17-Dec-2024 21:44:06.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\logging.properties
+17-Dec-2024 21:44:06.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Dec-2024 21:44:06.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\lib\idea_rt.jar=61239:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\bin
+17-Dec-2024 21:44:06.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+17-Dec-2024 21:44:06.235 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+17-Dec-2024 21:44:06.235 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+17-Dec-2024 21:44:06.235 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Dec-2024 21:44:06.242 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+17-Dec-2024 21:44:07.047 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:44:07.576 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1732] milliseconds
+17-Dec-2024 21:44:07.615 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Dec-2024 21:44:07.615 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+17-Dec-2024 21:44:07.628 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml]
+17-Dec-2024 21:44:10.769 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Dec-2024 21:44:10.845 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\HP\Desktop\MEGHAM\Xworkz_CommonModule_Megha\conf\Catalina\localhost\course_registration.xml] has finished in [3,216] ms
+17-Dec-2024 21:44:10.849 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:44:10.860 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3282] milliseconds
+17-Dec-2024 21:44:23.675 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:44:23.956 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Dec-2024 21:44:23.972 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Dec-2024 21:44:24.019 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
